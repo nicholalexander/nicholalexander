@@ -2,7 +2,7 @@
 
 My name is Nichol (pronounced like the coin) and I am a human.
 
-I am a Senior Software Consultant at the amazing and awesome [Betterment](https://www.betterment.com/) where I work to build simple and delightful experiences for people to secure their financial future and wellness.
+I am a Senior Software Engineer at the amazing and awesome [Betterment](https://www.betterment.com/) where I work to build simple and delightful experiences for people to secure their financial future and wellness.
 
 I really love working with Ruby and Rails.
 
